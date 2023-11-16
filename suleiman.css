@@ -1,0 +1,36 @@
+
+*{
+    padding: 2px;
+    margin: 4px;
+
+}
+body{
+    background-color: #CCC3AB;
+    
+
+}
+.intro{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding-left: 40px;
+    margin-left: 2px;
+    
+ }   
+ul > li {
+list-style-type: none;
+
+}
+.hey-test{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+.about{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    }
+.about >h2 {
+    font-style: oblique;
+}
